@@ -1,11 +1,11 @@
-# @alexandersandberg/react-native-begin-background-task
+# @soreine/react-native-begin-background-task
 
 >⚠️ Note: This only works on iOS and will be ignored on other platforms.
 
 ## Installation
 
 ```zsh
-npm i @alexandersandberg/react-native-begin-background-task
+npm i @soreine/react-native-begin-background-task
 ```
 then...
 
@@ -16,7 +16,7 @@ npx pod-install
 
 ## Usage
 ```javascript
-import { beginBackgroundTask, endBackgroundTask } from '@alexandersandberg/react-native-begin-background-task';
+import { beginBackgroundTask, endBackgroundTask } from '@soreine/react-native-begin-background-task';
 
 // ...
 
