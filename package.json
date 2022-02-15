@@ -1,9 +1,9 @@
 {
-  "name": "@soreine/react-native-begin-background-task",
+  "name": "@lklepner/react-native-begin-background-task",
   "version": "0.1.1",
   "description": "React Native wrapper for beginBackgroundTask, iOS only",
   "main": "index.js",
-  "repository": "https://github.com/soreine/react-native-begin-background-task",
+  "repository": "https://github.com/lklepner/react-native-begin-background-task",
   "keywords": [
     "react-native",
     "ios",

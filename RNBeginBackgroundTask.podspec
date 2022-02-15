@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage     = package['repository']
   s.platform     = :ios, "10.0"
 
-  s.source       = { :git => "https://github.com/Soreine/react-native-begin-background-task.git", :tag => "v#{s.version}" }
+  s.source       = { :git => "https://github.com/lklepner/react-native-begin-background-task.git", :tag => "v#{s.version}" }
   s.source_files  = "ios/*.{h,m}"
 
   s.dependency 'React-Core'
